@@ -4,13 +4,15 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
 </h3>
 
+
+
 [![20221208-064303.png](https://i.postimg.cc/rs4btPPd/20221208-064303.png)](https://postimg.cc/K3ZQ6JFF)
 
 ## ↪️ Installation ↩️
 ```
 git clone https://github.com/T0XIC-CYBER/Hack-ErrOr
 cd Hack-ErrOr
-python2 BackHAck
+python BackHAck
 ```
 ## 📸 Screenshot 📸
 
@@ -56,7 +58,6 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=T0XIC-CYBER&theme=merko)
 
-<p align="left">
 > DATABASE:
 
 <p>
